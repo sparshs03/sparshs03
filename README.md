@@ -1,4 +1,4 @@
--👋 Hi, I’m @sparshs03
+- 👋 Hi, I’m @sparshs03
 
 - I’m interested in Machine Learning, Low Level Programming, and Binary Analysis
 
