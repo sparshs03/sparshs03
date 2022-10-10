@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sparshs03
 
-- I’m interested in Machine Learning, Low Level Programming, and Binary Analysis
+- ⚡ I’m interested in Machine Learning, Low Level Programming, and Binary Analysis
 
 - 📫 Reach me at sonisparsh@yahoo.com
 
